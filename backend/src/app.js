@@ -1,6 +1,6 @@
 import express from "express"
 import cors from "cors"
-import { errorController } from "./Controllers/errorController.js"
+import { errorController } from "./controllers/errorController.js"
 
 
 const app = express()

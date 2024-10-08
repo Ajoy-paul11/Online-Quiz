@@ -19,7 +19,7 @@ import QuizTest from "./components/QuizTest.jsx";
 import ShowResults from "./components/ShowResults.jsx";
 import EditQuizzes from "./components/quiz/EditQuizzes.jsx";
 
-export const URL = "http://localhost:5000/api/v1";
+export const URL = "https://online-quiz-v00y.onrender.com/api/v1";
 
 const router = createBrowserRouter([
   {
